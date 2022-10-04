@@ -1,7 +1,7 @@
 # Round_About_generating_trajectory_data
 generation round about trajectory data
 
-using python to generate trajectory data an extract images data for roundabout roads 
+using python to generate trajectory data and extract images data for roundabout roads 
 there are many parameter that the images depend on it like
 number_of_points --> number of points in the round circle
 radius --> radius of the circle
