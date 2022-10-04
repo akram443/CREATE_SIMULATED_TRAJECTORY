@@ -12,3 +12,6 @@ sampling_rate_leg -->sampling rate for leg trajectory data
 noise_size --> noise size that shows
 mean --> mean of the data that sampled 
 standard_dev --> standard devivation of the data
+
+all parameters affect the noise and shape of round in images
+and also add path_to_folder parameter to save images in specific path and the format is like 'G://final_project//roundabout'
